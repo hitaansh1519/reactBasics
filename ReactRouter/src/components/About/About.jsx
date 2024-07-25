@@ -13,16 +13,14 @@ export default function About() {
                     </div>
                     <div className="md:7/12 lg:w-6/12">
                         <h2 className="text-2xl text-gray-900 font-bold md:text-4xl">
-                            React development is carried out by passionate developers
+                            Complete Your Work With More Efficiency And Before Deadlines.
                         </h2>
                         <p className="mt-6 text-gray-600">
-                            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eum omnis voluptatem
-                            accusantium nemo perspiciatis delectus atque autem! Voluptatum tenetur beatae unde
-                            aperiam, repellat expedita consequatur! Officiis id consequatur atque doloremque!
+                            Workload Manager Pro is a comprehensive and intuitive app designed to help you efficiently manage your tasks, projects, and deadlines. Whether you're a student, professional, or entrepreneur, this app is your perfect companion for staying organized and productive.
                         </p>
                         <p className="mt-4 text-gray-600">
-                            Nobis minus voluptatibus pariatur dignissimos libero quaerat iure expedita at?
-                            Asperiores nemo possimus nesciunt dicta veniam aspernatur quam mollitia.
+                            {/* Nobis minus voluptatibus pariatur dignissimos libero quaerat iure expedita at?
+                            Asperiores nemo possimus nesciunt dicta veniam aspernatur quam mollitia. */}
                         </p>
                     </div>
                 </div>
