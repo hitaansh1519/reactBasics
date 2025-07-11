@@ -1,12 +1,40 @@
-# React + Vite
+📝 Todo List App (React + Context API + LocalStorage)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple yet powerful Todo List App built with React that demonstrates core CRUD operations: Add, Update, Delete, and Select (via checkboxes) for tasks. The app uses the Context API for efficient state management across components and integrates Local Storage to persist data between sessions.
+🚀 Features
 
-Currently, two official plugins are available:
+    ✅ Add tasks with real-time updates
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+    🖊️ Edit/update existing tasks easily
 
-## Expanding the ESLint configuration
+    🗑️ Delete individual tasks or clear all
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+    ☑️ Mark tasks as completed using checkboxes
+
+    💾 Persistent storage using browser's localStorage
+
+    🔄 Global state management via React Context API
+
+    📱 Fully responsive design for mobile and desktop
+
+🛠️ Tech Stack
+
+    React (Functional Components + Hooks)
+
+    Context API
+
+    LocalStorage
+
+    Tailwind
+
+    HTML + CSS
+
+📦 Getting Started
+
+    Clone the repository
+
+    Run npm install
+
+    Start the app with npm start
+
+    Your Todo List will be live at http://localhost:3000/
